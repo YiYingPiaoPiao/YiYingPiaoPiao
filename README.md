@@ -6,12 +6,4 @@
 
 # **亦影飘飘 <br> YiYingPiaoPiao**
 
-## Projects
-### Tools
----
----
-### Games
----
----
-
 </div>
